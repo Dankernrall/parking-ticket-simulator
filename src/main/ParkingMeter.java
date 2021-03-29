@@ -1,5 +1,5 @@
 class ParkingMeter {
-    int buyedTime;
+    private int buyedTime;
 
     public int getBuyedTime() {
         return buyedTime;
